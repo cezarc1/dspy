@@ -40,7 +40,6 @@ API_MAPPING = {
     ],
     "tools": [
         dspy.ColBERTv2,
-        dspy.retrievers.Embeddings,
         dspy.PythonInterpreter,
     ],
     "utils": [

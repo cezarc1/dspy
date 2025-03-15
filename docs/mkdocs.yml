@@ -118,7 +118,6 @@ nav:
             - Signature: api/signatures/Signature.md
         - Tools:
             - ColBERTv2: api/tools/ColBERTv2.md
-            - Embeddings: api/tools/Embeddings.md
             - PythonInterpreter: api/tools/PythonInterpreter.md
         - Utils:
             - StatusMessage: api/utils/StatusMessage.md
